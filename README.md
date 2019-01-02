@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+#Simple-MyTask-List
+A simple MyTaskList is developed in MEAN stack MongoDB, Express.js, Angular 2 and Node.js
 
-You can use the [editor on GitHub](https://github.com/Siri-Puligadda/Simple-MyTask-List/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##MongoDB
+Create an account in https://mlab.com/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##Getting Started
+Clone Repo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+git clone https://github.com/Siri-Puligadda/Simple-MyTask-List.git
 
-```markdown
-Syntax highlighted code block
+##Install Dependencies
+First you need to install node.js on your PC, and then install npm package.
 
-# Header 1
-## Header 2
-### Header 3
+npm install
+cd client
+npm start
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Siri-Puligadda/Simple-MyTask-List/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+After the implementation, open http://localhost:3000/ in your browser.
