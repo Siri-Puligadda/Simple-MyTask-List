@@ -13,8 +13,9 @@ Clone Repo
 ## Install Dependencies
 First you need to install node.js on your PC, and then install npm package.
 
-> npm install
-> cd client
-> npm start
-
+```
+npm install
+cd client
+npm start
+```
 After the implementation, open http://localhost:3000/ in your browser.
